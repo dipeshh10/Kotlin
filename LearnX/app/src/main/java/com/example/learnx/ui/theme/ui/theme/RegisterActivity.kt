@@ -44,8 +44,8 @@ import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.toSize
 import com.example..model.UserModel
-import com.example.c36b.repository.UserRepositoryImpl
-import com.example.c36b.viewmodel.UserViewModel
+import com.example.learnx.repository.UserRepositoryImpl
+import com.example.learnx.viewmodel.UserViewModel
 
 class RegistrationActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
